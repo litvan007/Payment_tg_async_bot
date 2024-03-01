@@ -1,0 +1,11 @@
+bot:
+  token: 
+
+db:
+  source_db_path: users.db
+  dest_db_path: 
+
+other:
+  promo_file_path: "Promo.mp3"
+  link_for_joining: 
+  payment_token: 
